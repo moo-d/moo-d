@@ -1,4 +1,8 @@
-### Hi there 👋
+### Moshimoshi I'm moo-d 👋
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/75057738?v=4">
+</p>
 
 <!--
 **moo-d/moo-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
