@@ -1,7 +1,7 @@
 ## Moshimoshi I'm moo-d 👋
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/75057738?v=4">
+  <img src="https://raw.githubusercontent.com/moo-d/moo-d/main/assets/images%20(14).jpeg">
 </p>
 
 ## Stats
