@@ -14,7 +14,16 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-## My Stats 📊
+```js
+const naz = {
+  pronouns: "she" | "her",
+  code: [Javascript, HTML, CSS],
+  tools: [Node, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"]
+}
+```
+
+### My Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-70-blue)
