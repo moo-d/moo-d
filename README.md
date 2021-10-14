@@ -79,7 +79,3 @@ CSS                      2 repos             ████░░░░░░░�
 
  Last Updated on 14/10/2021
 <!--END_SECTION:waka-->
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=moo-d&row=2&column=3">
-</p>
