@@ -6,8 +6,8 @@
 
 ## Stats
 
-[![Nazwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=moo-d&show_icons=true&icon_color=000&border_color=000&title_color=0373fc)](https://github.com/moo-d)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moo-d&title_color=0373fc&border_color=000&html=0373fc)](https://github.com/anuraghazra/github-readme-stats)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=moo-d&row=2&column=3">
