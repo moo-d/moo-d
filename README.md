@@ -1,10 +1,10 @@
-## Moshimoshi I'm moo-d 👋
+## Moshimoshi I'm moo-d <a href="/"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></a>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/moo-d/moo-d/main/assets/Readme/hewhe.gif">
 </p>
 
-## Stats
+## My Stats 📊
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-70-blue)
