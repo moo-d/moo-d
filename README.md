@@ -34,11 +34,11 @@ const naz = {
 ### My Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,722 Contributions in the Year 2021
+> 🏆 1,726 Contributions in the Year 2021
  > 
 > 📦 21.8 kB Used in GitHub's Storage 
  > 
@@ -52,16 +52,16 @@ const naz = {
 
 ```text
 🌞 Morning    258 commits    ████████░░░░░░░░░░░░░░░░░   32.41% 
-🌆 Daytime    239 commits    ███████░░░░░░░░░░░░░░░░░░   30.03% 
-🌃 Evening    240 commits    ███████░░░░░░░░░░░░░░░░░░   30.15% 
+🌆 Daytime    242 commits    ███████░░░░░░░░░░░░░░░░░░   30.4% 
+🌃 Evening    237 commits    ███████░░░░░░░░░░░░░░░░░░   29.77% 
 🌙 Night      59 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.41%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       101 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.69% 
-Tuesday      162 commits    █████░░░░░░░░░░░░░░░░░░░░   20.35% 
+Monday       105 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.19% 
+Tuesday      158 commits    █████░░░░░░░░░░░░░░░░░░░░   19.85% 
 Wednesday    123 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.45% 
 Thursday     89 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.18% 
 Friday       108 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.57% 
@@ -101,5 +101,5 @@ CSS                      3 repos             ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/moo-d/moo-d/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/12/2021
+ Last Updated on 13/12/2021
 <!--END_SECTION:waka-->
