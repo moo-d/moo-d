@@ -38,9 +38,9 @@ const naz = {
 
 **🐱 My GitHub Data** 
 
-> 🏆 16 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2022
  > 
-> 📦 20.4 kB Used in GitHub's Storage 
+> 📦 19.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -101,5 +101,5 @@ CSS                      3 repos             ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/moo-d/moo-d/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/01/2022
+ Last Updated on 17/01/2022
 <!--END_SECTION:waka-->
