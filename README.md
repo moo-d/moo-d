@@ -34,11 +34,11 @@ const naz = {
 ### My Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 24 Contributions in the Year 2022
+> 🏆 26 Contributions in the Year 2022
  > 
 > 📦 19.7 kB Used in GitHub's Storage 
  > 
@@ -63,8 +63,8 @@ const naz = {
 Monday       124 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.1% 
 Tuesday      147 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.09% 
 Wednesday    112 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.55% 
-Thursday     71 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.22% 
-Friday       110 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Thursday     73 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.48% 
+Friday       108 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.03% 
 Saturday     126 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.36% 
 Sunday       80 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.39%
 
@@ -101,5 +101,5 @@ CSS                      3 repos             ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/moo-d/moo-d/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/03/2022 18:46:04 UTC
+ Last Updated on 06/03/2022 18:45:16 UTC
 <!--END_SECTION:waka-->
