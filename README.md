@@ -34,7 +34,7 @@ const naz = {
 ### My Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 **🐱 My GitHub Data** 
 
@@ -101,5 +101,5 @@ CSS                      3 repos             ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/moo-d/moo-d/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/04/2022 18:50:42 UTC
+ Last Updated on 13/04/2022 18:48:27 UTC
 <!--END_SECTION:waka-->
