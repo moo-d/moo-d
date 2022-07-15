@@ -9,7 +9,7 @@
 ```js
 const naz = {
   pronouns: "she" | "her",
-  code: ["JavaScript", "HTML", "CSS", "Python", "Bash"],
+  code: [JavaScript, HTML, CSS, Bash, Ruby],
   tools: [Node, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"]
   technologies: {
