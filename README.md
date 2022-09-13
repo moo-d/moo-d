@@ -103,5 +103,5 @@ CSS                      4 repos             █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/moo-d/moo-d/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/09/2022 18:52:40 UTC
+ Last Updated on 13/09/2022 18:55:54 UTC
 <!--END_SECTION:waka-->
