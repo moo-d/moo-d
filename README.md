@@ -36,7 +36,7 @@ const naz = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -103,5 +103,5 @@ CSS                      4 repos             █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/moo-d/moo-d/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/09/2022 18:56:47 UTC
+ Last Updated on 17/09/2022 18:52:26 UTC
 <!--END_SECTION:waka-->
