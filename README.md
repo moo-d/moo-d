@@ -50,6 +50,45 @@ const naz = {
  > 
 > 🔑 7 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    249 commits    ███████░░░░░░░░░░░░░░░░░░   30.33% 
+🌆 Daytime    258 commits    ███████░░░░░░░░░░░░░░░░░░   31.43% 
+🌃 Evening    226 commits    ███████░░░░░░░░░░░░░░░░░░   27.53% 
+🌙 Night      88 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.72%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       114 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.89% 
+Tuesday      92 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.21% 
+Wednesday    98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.94% 
+Thursday     115 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.01% 
+Friday       125 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.23% 
+Saturday     167 commits    █████░░░░░░░░░░░░░░░░░░░░   20.34% 
+Sunday       110 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.4%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -64,5 +103,5 @@ CSS                      4 repos             █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/moo-d/moo-d/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/09/2022 18:57:28 UTC
+ Last Updated on 27/09/2022 19:02:45 UTC
 <!--END_SECTION:waka-->
