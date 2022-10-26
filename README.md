@@ -92,8 +92,8 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               15 repos            ███████████████████░░░░░░   78.95% 
-CSS                      4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05%
+JavaScript               14 repos            ███████████████████░░░░░░   77.78% 
+CSS                      4 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22%
 
 ```
 
@@ -103,5 +103,5 @@ CSS                      4 repos             █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/moo-d/moo-d/main/charts/bar_graph.png) 
 
 
- Last Updated on 25/10/2022 19:26:34 UTC
+ Last Updated on 26/10/2022 18:52:03 UTC
 <!--END_SECTION:waka-->
