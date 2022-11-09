@@ -40,60 +40,21 @@ const naz = {
 
 **🐱 My GitHub Data** 
 
-> 🏆 375 Contributions in the Year 2022
+> 🏆 379 Contributions in the Year 2022
  > 
-> 📦 23.2 kB Used in GitHub's Storage 
+> 📦 24.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 11 Public Repositories 
  > 
-> 🔑 8 Private Repositories  
+> 🔑 9 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    154 commits    ███████░░░░░░░░░░░░░░░░░░   30.02% 
-🌆 Daytime    150 commits    ███████░░░░░░░░░░░░░░░░░░   29.24% 
-🌃 Evening    154 commits    ███████░░░░░░░░░░░░░░░░░░   30.02% 
-🌙 Night      55 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.72%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       106 commits    █████░░░░░░░░░░░░░░░░░░░░   20.66% 
-Tuesday      44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.58% 
-Wednesday    31 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.04% 
-Thursday     94 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.32% 
-Friday       98 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.1% 
-Saturday     91 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.74% 
-Sunday       49 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.55%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               14 repos            ███████████████████░░░░░░   77.78% 
-CSS                      4 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22%
+JavaScript               15 repos            ███████████████████░░░░░░   78.95% 
+CSS                      4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05%
 
 ```
 
@@ -103,5 +64,5 @@ CSS                      4 repos             █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/moo-d/moo-d/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/11/2022 19:00:22 UTC
+ Last Updated on 09/11/2022 18:50:14 UTC
 <!--END_SECTION:waka-->
